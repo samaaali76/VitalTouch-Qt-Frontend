@@ -1,9 +1,0 @@
-# ninja log v6
-8	5090	7810457271719062	VitalTouch-Qt-Frontend_autogen/timestamp	49655943a17a2fb5
-8	5090	7810457271719062	VitalTouch-Qt-Frontend_autogen/mocs_compilation.cpp	49655943a17a2fb5
-8	5090	7810457271719062	C:/Users/HP/OneDrive - Egyptian Chinese University (ECU)/Desktop/VitalTouch-Qt-Frontend/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/VitalTouch-Qt-Frontend_autogen/timestamp	49655943a17a2fb5
-8	5090	7810457271719062	C:/Users/HP/OneDrive - Egyptian Chinese University (ECU)/Desktop/VitalTouch-Qt-Frontend/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/VitalTouch-Qt-Frontend_autogen/mocs_compilation.cpp	49655943a17a2fb5
-5097	7777	7810457272979004	CMakeFiles/VitalTouch-Qt-Frontend.dir/VitalTouch-Qt-Frontend_autogen/mocs_compilation.cpp.obj	ca4e61e55b4180bd
-5108	7780	7810457273099052	CMakeFiles/VitalTouch-Qt-Frontend.dir/mainwindow.cpp.obj	567202beff82f4bd
-5101	7782	7810457273019018	CMakeFiles/VitalTouch-Qt-Frontend.dir/main.cpp.obj	bc9e0d80ea3dfaa6
-7782	8088	7810457299832826	VitalTouch-Qt-Frontend.exe	d070360a8a032dca
